@@ -8,13 +8,13 @@ This imaginatively named command line tool is for all the TV download junkies ou
   
 Examples:
 
-  heroes.319.hdtv-icanhasproper.avi
-  south.park.s13e03.dsr.xvid-0tv.avi
+    heroes.319.hdtv-icanhasproper.avi
+    south.park.s13e03.dsr.xvid-0tv.avi
   
 Becomes:
 
-  Heroes.s03e19.Shades of Gray.avi
-  South Park.s13e03.Dances with Smurfs.avi
+    Heroes.s03e19.Shades of Gray.avi
+    South Park.s13e03.Dances with Smurfs.avi
   
 ## Isn't this a little anal?
 
